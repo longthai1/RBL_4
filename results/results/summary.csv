@@ -1,2 +1,3 @@
-N,ValidRate,SyntaxPassRate,MostCommonError
-50,0.78,0.0,contract_error (34/50)
+RQ,Metric,MetricValue,PValue,EffectSize,N,Decision
+RQ1,Syntax Accuracy,0.0,1.4272476927059242e-55,,50,Reject H0
+RQ2,BLEU,0.03384597985990362,2.5801318810448244e-08,-21.830897113429344,39,Reject H0
